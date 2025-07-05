@@ -94,3 +94,4 @@ chmod +x install.sh
 - Autor: Evepry
 - Inspirado en S4vitar
 # BSPWMkali
+# BSPWMkali
