@@ -1,12 +1,12 @@
 # ENV - My BSPWMkali Modificado - Script Kali
 
 Este es mi arhivo de intalacion de BSPWMkali Modificado,
-inspirado en ellll repositorio BSPWMparrot
+inspirado en el repositorio BSPWMparrot https://github.com/Evepry/BSPWMparrot.git
 
 # Instalacion
 
 ```bash
-git clone https://github.com/Evepry/BSPWMparrot.git
+git clone https://github.com/Evepry/BSPWMkali.git
 ```
 
 ```bash
